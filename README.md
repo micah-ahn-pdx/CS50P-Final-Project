@@ -5,7 +5,9 @@ The project is aimed toward understanding APIs and graphics libraries.
 
 ## Demo
 
-Video Demo: <URL>
+Video Demo: 
+
+https://user-images.githubusercontent.com/126723586/223255073-f15efd8e-b228-469e-a9b2-c966128186db.mov
 
 ## Description
 
